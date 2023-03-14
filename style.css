@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+    vertical-align: middle;
+}
+body{
+    background: url(vo-vse-tyazhkie-pustynya-treyler\ \(1\).jpg) no-repeat center center;
+    background-size: cover;
+}
+.el1 {
+    font-size: 3rem;
+    text-shadow: darkblue;
+}
+.el1{
+    color: aliceblue;
+}
+.ci{
+    color: #ffffff;
+    size: 22px;
+}
+.gii{
+    color: #ffffff;
+    text-decoration: none;
+}
